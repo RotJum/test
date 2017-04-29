@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0;
+	
+}
+#page,#Forest1,#Forest2,#Forest3,#Forest4,#Forest5,#Forest6,#Forest7,#Forest8,#Forest9,#Forest10{
+	background:url(../image/Forest_7.jpg) repeat;
+}
+.logo{ width:auto;
+height:50px;
+width:60px;
+background:url(../../image/logo.JPG);
+margin:auto;
+}
+#page .mainmenu{
+	padding:0;
+	margin:5px;
+}
+#page .mainmenu list{
+	padding:none;
+	margin:none;
+}
+#page .mainmenu list a{
+	background:rgb(255,255,255,.6);
+	display:block;
+	border-radius:10px;
+	margin-bottom:5px;
+	
+}
+#page mainmenu list a:hover{
+	background:rgb(255,255,255,.9);
+
+}
+	
+.header{height:234px;
+width:100%;
+margin:0;
+padding:0;
+background:#9c1a8;
+}
+.readLine{
+	width:100%;
+	height:18px;
+	background:#900;
+	margin:0;
+	padding:0;
+}
+#page,#Forest1,#Forest2,#Forest3,#Forest4,#Forest5,#Forest6,#Forest7,#Forest8,#Forest9,#Forest10 .mainmenu li a{
+	background:url(../image/bkg.jpg) repeat;
+}
+	
+#page .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+.footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest1 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest2 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest3 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest4 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest5 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest6 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest7 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest8 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest9 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#Forest10 .footerBG{
+	width:100%;
+	height:76px;
+	background:#0B0;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
